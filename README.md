@@ -1,3 +1,7 @@
+![Main Thumbnail](Images/Thumbnail.png)
+
+## 🎥 [Watch Procedural Animation & Interaction Prototype](https://youtu.be/DnQv0TTlzDI)
+
 # Procedural Animation & Interaction Prototype
 
 A technical Unreal Engine 5 prototype focused on procedural character animation, dynamic interaction systems, and responsive environmental behaviors. 
@@ -5,7 +9,7 @@ A technical Unreal Engine 5 prototype focused on procedural character animation,
 The project explores how gameplay-driven procedural systems can reduce reliance on traditional animation assets by generating character reactions in real-time through traces, IK, Control Rig, Full Body IK, and animation blending.
 
 ---
-g
+
 ## Core Features
 
 ### 🏃‍♂️ Procedural Lean System
@@ -52,6 +56,7 @@ g
 * **Smoothing System:** Custom transition smoothing minimizes snapping between states.
 * **Asset Efficiency:** Designed to achieve fluid, organic motion using a minimal set of base animation assets.
 
+![System Detail](Images/system.png)
 ---
 
 ## Technologies Used
